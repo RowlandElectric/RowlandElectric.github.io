@@ -134,21 +134,21 @@ section:hover {
 .footer .col {
   width: 25%;
   float: right;
-  padding: 5px 5px 5px 5px;
-  margin: 5px 5px 5px 5px;
+  padding: 8px 8px 8px 8px;
+  margin: 7px 7px 7px 7px;
   border-right: 1px solid #cc1;
 }
 .footer .cols {
   width: 25%;
   float: right;
-  padding: 9px 9px 9px 9px;
+  padding: 8px 8px 8px 8px;
   margin: 6px 6px 6px 6px;
   border-right: 1px solid #cc1;
 }
 .footer .cola {
   width: 25%;
   float: right;
-  padding: 10px 10px 10px 10px;
+  padding: 8px 8px 8px 8px;
   margin: 5px 5px 5px 5px;
   border-left: 1px solid #cc1;
 }
