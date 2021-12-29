@@ -135,7 +135,7 @@ section:hover {
   width: 25%;
   float: right;
   padding: 10px 10px 10px 10px;
-  margin: 5px 5px 5px 5px;
+  margin: 5px 10px 5px 10px;
   border-right: 1px solid #cc1;
 }
 .footer .cols {
@@ -148,7 +148,7 @@ section:hover {
 .footer .cola {
   width: 25%;
   float: right;
-  padding: 8px 8px 8px 8px;
+  padding: 10px 10px 1opx 10px;
   margin: 5px 5px 5px 5px;
   border-left: 1px solid #cc1;
 }
